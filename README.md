@@ -30,5 +30,5 @@ proceso manual de recogida de datos.
 
 1. Ejecutar `auditoria_automatica.bat` como administrador
 2. El script genera `auditoria.csv` en la misma carpeta
-3. Si existe `ExportarExcel.ps1`, abre automáticamente 
+3. El archivo `ExportarExcel.ps1`, abre automáticamente 
    el Excel formateado
